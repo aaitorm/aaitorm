@@ -1,4 +1,5 @@
 # Aitor Milicua
+>Building AI systems · LLM evaluation · Computer Vision
 
 Artificial Intelligence student at UPV/EHU, focused on building and evaluating AI systems.
 
