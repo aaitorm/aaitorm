@@ -33,6 +33,20 @@ I enjoy designing end-to-end pipelines: from data and modeling to evaluation and
 
 ---
 
+## Featured Work
+
+### TruthfulQA LLM Evaluation
+- Evaluation of LLM truthfulness and informativeness
+- Few-shot prompting + LLM-as-a-judge pipeline
+- Multilingual analysis (ES/EU)
+
+### MPII Head Detection
+- Object detection using RT-DETR and CNN baselines
+- Performance comparison and analysis
+- Custom training pipeline
+
+---
+
 ## Tech Stack
 
 **Languages & Core**  
