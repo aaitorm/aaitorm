@@ -1,18 +1,50 @@
-## Aitor Milicua
+# Aitor Milicua
 
-Machine Learning student (UPV/EHU)
+Artificial Intelligence student at UPV/EHU, focused on building and evaluating AI systems.
 
-### Interests
-- Machine Learning
-- Computer Vision
-- LLM evaluation
-- Model fine-tuning
+---
 
-### Projects
-- MPII Pose Estimation (RT-DETR)
-- TruthfulQA evaluation of LLMs
-- Diffusion model personalization
-- LLM agent with LangChain
+## About Me
 
-### Tech Stack
-Python · PyTorch · NumPy · Hugging Face · LangChain · Git
+I work on applied machine learning projects, with a particular interest in:
+
+- Computer Vision (object detection, pose estimation)
+- LLM evaluation and analysis
+- Model behavior, reliability, and alignment
+
+I enjoy designing end-to-end pipelines: from data and modeling to evaluation and analysis.
+
+---
+
+## Projects
+
+- **Head Detection on MPII (RT-DETR)**  
+  Object detection pipeline comparing CNNs and Transformer-based models
+
+- **TruthfulQA LLM Evaluation**  
+  Evaluation of LLM truthfulness and informativeness using few-shot prompting and LLM-as-a-judge
+
+- **Diffusion Model Personalization**  
+  Fine-tuning diffusion models for controlled image generation
+
+- **LLM Agent with LangChain**  
+  Agent-based system integrating tools and reasoning workflows
+
+---
+
+## Tech Stack
+
+**Languages & Core**  
+Python · NumPy · PyTorch
+
+**ML & AI**  
+Transformers · Hugging Face · Computer Vision · LLMs
+
+**Tools**  
+Git · LangChain
+
+---
+
+## Interests
+
+Machine Learning · Computer Vision · LLM Evaluation · Model Reliability
