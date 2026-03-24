@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/aitor-milicua-fernandez-319b433b7/)">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aitor-milicua-fernandez-319b433b7/">LinkedIn</a> ·
   <a href="mailto:aitormilikua@gmail.com">Email</a> ·
   <a href="https://github.com/aaitorm">GitHub</a>
 </p>
@@ -67,7 +67,7 @@ Optimization of graph partitioning using GRASP, Simulated Annealing and Genetic 
 
 ---
 
-### [Diffusion Model Personalization](https://github.com/aaitorm/ai-photo-personalization
+### [Diffusion Model Personalization](https://github.com/aaitorm/ai-photo-personalization)
 
 Fine-tuning diffusion models for personalized image generation.
 
