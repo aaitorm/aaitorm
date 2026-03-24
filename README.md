@@ -1,99 +1,136 @@
-## Aitor Milicua
+<h1 align="center">Hey, I'm Aitor</h1>
 
-Building and evaluating AI systems · LLMs · Computer Vision
+<p align="center">
+  <em>AI Engineer · Machine Learning · LLMs · Computer Vision</em>
+</p>
 
-Artificial Intelligence student at UPV/EHU focused on developing and analyzing machine learning systems, from modeling to evaluation.
-
----
-
-## About Me
-
-I work on applied machine learning projects with a focus on understanding model behavior, performance, and limitations.
-
-My main areas of interest:
-
-* Computer Vision (object detection, representation learning)
-* LLM evaluation (truthfulness, reliability, alignment)
-* Optimization and heuristic algorithms
-* End-to-end ML pipelines (training, evaluation, analysis)
-
-I am particularly interested in how different architectures behave under real conditions and how to evaluate them rigorously.
+<p align="center">
+  <a href="(https://www.linkedin.com/in/aitor-milicua-fernandez-319b433b7/)">LinkedIn</a> ·
+  <a href="mailto:aitormilikua@gmail.com">Email</a> ·
+  <a href="https://github.com/aaitorm">GitHub</a>
+</p>
 
 ---
 
-## Selected Projects
+## About me
 
-### Community Detection with Heuristics
+I'm an Artificial Intelligence student at the **University of the Basque Country (UPV/EHU)** focused on building and evaluating machine learning systems in real-world scenarios.
 
-Comparison of optimization algorithms (GRASP, Simulated Annealing, Genetic Algorithms) for graph partitioning using modularity.
+My work centers around:
 
-* Quantitative comparison of solution quality and computational cost
-* Analysis of convergence behavior across algorithms
-* Implementation of multiple optimization strategies from scratch
+- **Machine Learning Systems** — end-to-end pipelines, training and evaluation  
+- **LLM Evaluation** — truthfulness, reliability, prompting strategies  
+- **Computer Vision** — object detection, model comparison  
 
----
+I'm particularly interested in **model behavior, evaluation, and reliability under real-world conditions**.
 
-### Diffusion Model Personalization
-
-Fine-tuning diffusion models for personalized image generation.
-
-* Prompt-based identity control using custom token
-* FastAPI backend for generation pipeline
-* Integration with external inference APIs (Replicate)
-
----
-
-### TruthfulQA LLM Evaluation
-
-Evaluation of LLM truthfulness and informativeness.
-
-* Few-shot prompting + LLM-as-a-judge pipeline
-* Multilingual evaluation (Spanish / Basque)
-* Comparative analysis between base and instruction models
-
----
-
-### Head Detection on MPII (RT-DETR)
-
-Object detection pipeline comparing CNN and Transformer-based models.
-
-* Training and evaluation on MPII dataset
-* Comparison between architectures (RT-DETR vs CNN baselines)
-* Performance analysis and qualitative results
-
----
-
-### LLM Agent with LangChain
-
-Agent-based system integrating tools and reasoning workflows.
-
-* Tool selection and multi-step reasoning
-* Integration with external knowledge sources (Wikipedia/Web)
-* Response synthesis pipeline
+I'm currently looking for **AI Engineering internships or collaborations**.
 
 ---
 
 ## Tech Stack
 
 **Languages**
-Python · NumPy · PyTorch
 
-**Machine Learning**
-Transformers · Computer Vision · LLMs · Optimization
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**ML / DL Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Data & Notebooks**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Tools**
-Git · LangChain · FastAPI
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
+
+---
+
+## Projects
+
+### [Community Detection with Heuristics](https://github.com/aaitorm/community-detection-heuristics)
+
+Optimization of graph partitioning using GRASP, Simulated Annealing and Genetic Algorithms.
+
+- Compared solution quality and computational cost  
+- Analyzed convergence behavior across algorithms  
+- Implemented all methods from scratch  
+
+`Optimization` `Heuristics` `Python`
+
+---
+
+### [Diffusion Model Personalization](https://github.com/aaitorm/ai-photo-personalization
+
+Fine-tuning diffusion models for personalized image generation.
+
+- Prompt-based identity control using custom token  
+- Built FastAPI backend for generation pipeline  
+- Integrated external APIs (Replicate)  
+
+`Diffusion Models` `Computer Vision` `FastAPI`
+
+---
+
+### [TruthfulQA LLM Evaluation](https://github.com/aaitorm/truthfulqa-llm-evaluation)
+
+Evaluation pipeline to measure LLM truthfulness and informativeness.
+
+- Built few-shot + LLM-as-a-judge framework  
+- Multilingual evaluation (Spanish / Basque)  
+- Compared base vs instruction models  
+
+`LLMs` `Evaluation` `Prompting`
+
+---
+
+### [Head Detection on MPII (RT-DETR)](https://github.com/aaitorm/head-detection-mpii-rtdetr)
+
+Object detection pipeline comparing CNN and Transformer-based models.
+
+- Trained and evaluated on MPII dataset  
+- Compared RT-DETR vs CNN baselines  
+- Performed qualitative and quantitative analysis  
+
+`Computer Vision` `Object Detection` `Transformers`
+
+---
+
+### [LLM Agent with LangChain](https://github.com/aaitorm/ai-research-agent)
+
+Agent-based system integrating tools and reasoning workflows.
+
+- Multi-step reasoning with tool usage  
+- Integration with external knowledge sources  
+- Response synthesis pipeline  
+
+`LLMs` `Agents` `LangChain`
 
 ---
 
 ## Current Focus
 
-* LLM evaluation and reliability
-* Applied computer vision systems
-* Optimization methods for complex problems
+- LLM evaluation and reliability  
+- Applied computer vision systems  
+- Optimization methods  
 
 ---
 
-## Interests
+## Let's connect
 
-Machine Learning · Computer Vision · LLM Evaluation · Model Reliability
+I'm open to collaborations, internships, or interesting AI projects.
+
+email: aitormilikua@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&hide_border=true" />
+</p>
