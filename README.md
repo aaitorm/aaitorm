@@ -132,5 +132,5 @@ email: aitormilikua@gmail.com
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaitorm&show_icons=true&hide_border=true" />
 </p>
