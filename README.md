@@ -127,10 +127,5 @@ Agent-based system integrating tools and reasoning workflows.
 
 I'm open to collaborations, internships, or interesting AI projects.
 
-email: aitormilikua@gmail.com
+email: aitormilikua@gmail.com 
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaitorm&show_icons=true&hide_border=true" />
-</p>
