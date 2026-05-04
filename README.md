@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aitor-milicua-fernandez-319b433b7/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aaitormilicua/">LinkedIn</a> ·
   <a href="mailto:aitormilikua@gmail.com">Email</a> ·
   <a href="https://github.com/aaitorm">GitHub</a>
 </p>
